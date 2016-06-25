@@ -1,0 +1,97 @@
+<model>
+  <header title="மெய்">
+    <item title="ஃ" 	/>
+	<item title="க்" />
+	<item title="ங்" />
+	<item title="ச்" />
+	<item title="ஞ்" />
+	<item title="ட்" />
+	<item title="ண்" />
+	<item title="த்" />
+	<item title="ந்" />
+	<item title="ப்" />
+	<item title="ம்" />
+	<item title="ய்" />
+	<item title="ர்" />
+	<item title="ல்" />
+	<item title="வ்" />
+	<item title="ழ்" />
+	<item title="ள்" />
+	<item title="ற்" />
+	<item title="ன்" />
+  </header>
+    <header title="ஃ">
+    <item title="அ" />
+	<item title="ஆ" />
+	<item title="இ" />
+	<item title="ஈ" />
+	<item title="உ" />
+	<item title="ஊ" />
+	<item title="எ" />
+	<item title="ஏ" />
+	<item title="ஐ" />
+	<item title="ஒ" />
+	<item title="ஓ" />
+	<item title="ஔ" />
+  </header>
+  <header title="க்">
+    <item title="க" />
+	<item title="கா" />
+	<item title="கி" />
+	<item title="கீ" />
+	<item title="கு" />
+	<item title="கூ" />
+	<item title="கெ" />
+	<item title="கே" />
+	<item title="கை" />
+	<item title="கொ" />
+	<item title="கோ" />
+	<item title="கௌ" />
+  </header>
+  <header title="ங்">
+    <item title="ங" />
+	<item title="ஙா" />
+	<item title="ஙி" />
+	<item title="ஙீ " />
+	<item title="ஙு" />
+	<item title="ஙூ" />
+	<item title="ஙெ" />
+	<item title="ஙே" />
+	<item title="ஙை" />
+	<item title="ஙொ" />
+	<item title="ஙோ" />
+	<item title="ஙௌ" /> 	 		 	 	 	 	 	 	 	
+  </header>
+  <header title="ச்">
+    <item title="ச" />
+	<item title="சா" />
+	<item title="சி" />
+	<item title="சீ" />
+	<item title="சு" />
+	<item title="சூ" />
+	<item title="செ" />
+	<item title="சே" />
+	<item title="சை" />
+	<item title="சொ" />
+	<item title="சோ" />
+	<item title="சௌ" />
+  </header>
+  <header title="ஞ்">
+    <item title="ஞ" />
+	<item title="ஞா" />
+	<item title="ஞி" />
+	<item title="ஞீ" />
+	<item title="ஞு" />
+	<item title="ஞூ" />
+	<item title="ஞெ" />
+	<item title="ஞே" />
+	<item title="ஞை" />
+	<item title="ஞொ" />
+	<item title="ஞோ" />
+	<item title="ஞௌ" />	
+  </header>
+</model>
+
+
+
+ 	 	 	 	 	 	 	 	 	 	 	
